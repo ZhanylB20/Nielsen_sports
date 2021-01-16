@@ -1,6 +1,6 @@
 # Selenium Framework with Cucumber
 **Author: Beksultan Ismatov**
-https://www.linkedin.com/in/nazar-h-98b4811b6/
+https://www.linkedin.com/in/bksultan
 
 ### BDD framework for automation using Selenium Cucumber and JUnit
 
